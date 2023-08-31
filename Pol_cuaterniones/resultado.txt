@@ -1,0 +1,37 @@
+Los polinomios ingresados son:
+
+a(x) = +1 +2i +j +3k x +1 +2i +3j +4k
+b(x) = +1 +2i +j +3k x +1 +2i +3j +4k
+
+a+b:
++2 +4i +2j +6k x +2 +4i +6j +8k
+
+a-b:
+0
+
+a*b:
+-13 +4i +2j +6k x^2 -36 +8i +8j +14k x -28 +4i +6j +8k
+
+a/b:
+q = +1 
+r = 0
+
+(a,b):
++1 +2i +j +3k x +1 +2i +3j +4k
+
+a'(x):
++1 +2i +j +3k
+a'(x) evaluada: +1 +2i +j +3k
+
+Integral indefinida A(x):
++0.5 +i +0.5j +1.5k x^2 +1 +2i +3j +4k x +C
+Integral definida en los límites: -112.5 +50i -8.5j +29.5k
+
+b'(x):
++1 +2i +j +3k
+b'(x) evaluada: +1 +2i +j +3k
+
+Integral indefinida B(x):
++0.5 +i +0.5j +1.5k x^2 +1 +2i +3j +4k x +C
+Integral definida en los límites: -112.5 +50i -8.5j +29.5k
+

@@ -1,0 +1,37 @@
+Los polinomios ingresados son:
+
+a(x) = +9 x^5 +1 x^4 +5 x^3 +1 x^2 +1
+b(x) = +1 x^2 +1
+
+a+b:
++9 x^5 +1 x^4 +5 x^3 +2 x^2 +2
+
+a-b:
++9 x^5 +1 x^4 +5 x^3 
+
+a*b:
++9 x^7 +1 x^6 +3 x^5 +2 x^4 +5 x^3 +2 x^2 +1
+
+a/b:
+q = +9 x^3 +1 x^2 +7 x 
+r = +4 x +1
+
+(a,b):
++10
+
+a'(x):
++1 x^4 +4 x^3 +4 x^2 +2 x 
+a'(x) evaluada: 3
+
+Integral indefinida A(x):
++7 x^6 +9 x^5 +4 x^4 +4 x^3 +1 x +C
+Integral definida en los límites: 10
+
+b'(x):
++2 x 
+b'(x) evaluada: 5
+
+Integral indefinida B(x):
++4 x^3 +1 x +C
+Integral definida en los límites: 5
+

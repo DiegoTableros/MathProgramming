@@ -1,0 +1,22 @@
+Los polinomios ingresados son:
+
+a(x) = 11+12i x^5 9+10i x^4 7+8i x^3 5+6i x^2 3+4i x 1+2i
+b(x) = 5+6i x^2 3+4i x 1+2i
+
+a+b:
+11+12i x^5 9+10i x^4 7+8i x^3 10+12i x^2 6+8i x 2+4i
+
+a-b:
+11+12i x^5 9+10i x^4 7+8i x^3 
+
+a*b:
+-17+126i x^7 -30+184i x^6 -39+182i x^5 -33+140i x^4 -27+98i x^3 -21+56i x^2 -10+20i x -3+4i
+
+a'(x):
+55+60i x^4 36+40i x^3 21+24i x^2 10+12i x 3+4i
+a'(x) evaluada: -419-180i
+
+b'(x):
+10+12i x 3+4i
+b'(x) evaluada: 1+26i
+
