@@ -1,0 +1,59 @@
+CONJUGADOR DE VERBOS
+Verbo	mimir
+
+Modo indicativo, tiempo simple
+
+     Presente            Pretérito             Futuro            Copretérito         Postpretérito     
+
+      yo mimo             yo mimí             yo mimiré           yo mimía            yo mimiría    
+      tú mimes            tú mimiste          tú mimirás          tú mimías           tú mimirías   
+ él/ella mime        él/ella mimió       él/ella mimirá      él/ella mimía       él/ella mimiría    
+nosotros mimimos    nosotros mimimos    nosotros mimiremos  nosotros mimíamos   nosotros mimiríamos 
+ ustedes mimen       ustedes mimieron    ustedes mimirán     ustedes mimían      ustedes mimirían   
+   ellos mimen         ellos mimieron      ellos mimirán       ellos mimían        ellos mimirían   
+
+Modo indicativo, tiempo compuesto
+
+            Antepresente             Antecopretérito            Antepretérito           Antefuturo              Antepospreterito
+
+       yo        he mimido        yo      hube mimido        yo     habré mimido        yo     había mimido        yo    habría mimido 
+       tú       has mimido        tú   hubiste mimido        tú    habrás mimido        tú    habías mimido        tú   habrías mimido 
+  él/ella        ha mimido   él/ella      hubo mimido   él/ella     habrá mimido   él/ella     había mimido   él/ella    habría mimido 
+ nosotros     hemos mimido  nosotros   hubimos mimido  nosotros  habremos mimido  nosotros  habíamos mimido  nosotros habríamos mimido 
+  ustedes       han mimido   ustedes  hubieron mimido   ustedes    habrán mimido   ustedes    habían mimido   ustedes   habrían mimido 
+    ellos       han mimido     ellos  hubieron mimido     ellos    habrán mimido     ellos    habían mimido     ellos   habrían mimido 
+
+Modo subjuntivo, tiempo simple
+
+     Presente            Pretérito             Futuro        
+
+      yo mima             yo mimiera          yo mimiere    
+      tú mimas            tú mimieras         tú mimieres   
+ él/ella mima        él/ella mimiera     él/ella mimiere    
+nosotros mimamos    nosotros mimiéramos nosotros mimiéremos 
+ ustedes miman       ustedes mimieran    ustedes mimieren   
+   ellos miman         ellos mimieran      ellos mimieren   
+
+Modo subjuntivo, tiempo compuesto
+
+            Antepresente             Antepretérito            Antefuturo
+
+       yo       haya mimido        yo    hubiera mimido        yo    hubiere mimido 
+       tú      hayas mimido        tú   hubieras mimido        tú   hubieres mimido 
+  él/ella       haya mimido   él/ella    hubiera mimido   él/ella    hubiere mimido 
+ nosotros    hayamos mimido  nosotros hubiéramos mimido  nosotros hubiéremos mimido 
+  ustedes      hayan mimido   ustedes   hubieran mimido   ustedes   hubieren mimido 
+    ellos      hayan mimido     ellos   hubieran mimido     ellos   hubieren mimido 
+
+Modo participio
+
+mimido
+
+Modo gerundio
+
+mimiendo
+
+Modo imperativo
+
+tú, ¡mime!
+ustedes, ¡miman!

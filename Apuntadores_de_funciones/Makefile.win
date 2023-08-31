@@ -1,0 +1,28 @@
+# Project: Apuntadores_a_funciones
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = apun_a_func.o
+LINKOBJ  = apun_a_func.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -L"C:/Users/Chuck Tableros/Desktop/ESFM/Programación I/Apuntadores_de_funciones/lib" lib/bib_complejos.a lib/bib_cuaterniones.a lib/bib_gaussianos.a lib/bib_racionales.a lib/bib_reales.a lib/bib_Zp.a
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Users/Chuck Tableros/Desktop/ESFM/Programación I/Apuntadores_de_funciones/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"C:/Users/Chuck Tableros/Desktop/ESFM/Programación I/Apuntadores_de_funciones/include"
+BIN      = Apuntadores_a_funciones.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+apun_a_func.o: apun_a_func.c
+	$(CC) -c apun_a_func.c -o apun_a_func.o $(CFLAGS)

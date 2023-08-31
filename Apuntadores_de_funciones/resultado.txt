@@ -1,0 +1,13 @@
+Apuntadores a funciones con complejos.
+
+Suma:
+        2.1-6.4i +                0 =         2.1-6.4i
+
+Resta:
+        2.1-6.4i -                0 =         2.1-6.4i
+
+Producto:
+        2.1-6.4i *                0 =                0
+
+Division:
+No se puede realizar la división.
