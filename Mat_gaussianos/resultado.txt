@@ -1,0 +1,25 @@
+Las matrices ingresadas son:
+
+A (2 x 3):
+          1+3i            -1          5+6i
+            +i          6-7i         -9+8i
+
+B (3 x 4):
+          5-2i           1+i          7+8i         -2+3i
+         -9-5i          6+7i          -1+i            +i
+             0          4+5i         -3+2i           2-i
+
+
+A+B:
+No se puede realizar la suma matricial.
+
+
+A-B:
+No se puede realizar la resta matricial.
+
+
+AB:
+        20+18i       -18+46i       -43+20i          5+3i
+       -87+38i         8-12i         4-22i        -6+29i
+
+
