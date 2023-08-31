@@ -1,0 +1,37 @@
+Los polinomios ingresados son:
+
+a(x) = +3/5 x^5 +1/2 x^4 - x^3 +1/3 x^2 -1/2 x +1/6
+b(x) = -3/2 x +1/2
+
+a+b:
++3/5 x^5 +1/2 x^4 - x^3 +1/3 x^2 -2 x +2/3
+
+a-b:
++3/5 x^5 +1/2 x^4 - x^3 +1/3 x^2 + x -1/3
+
+a*b:
+-9/10 x^6 -9/20 x^5 +7/4 x^4 - x^3 +11/12 x^2 -1/2 x +1/12
+
+a/b:
+q = -2/5 x^4 -7/15 x^3 +23/45 x^2 -7/135 x +128/405
+r = +7/810
+
+(a,b):
++7/810
+
+a'(x):
++3 x^4 +2 x^3 -3 x^2 +2/3 x -1/2
+a'(x) evaluada: +13/6
+
+Integral indefinida A(x):
++1/10 x^6 +1/10 x^5 -1/4 x^4 +1/9 x^3 -1/4 x^2 +1/6 x +C
+Integral definida en los límites: +53/1152
+
+b'(x):
+-3/2
+b'(x) evaluada: -3/2
+
+Integral indefinida B(x):
+-3/4 x^2 +1/2 x +C
+Integral definida en los límites: +5/16
+
